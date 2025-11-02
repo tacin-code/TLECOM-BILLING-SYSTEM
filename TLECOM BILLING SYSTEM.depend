@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1662722277 source:d:\tlecom billing system\main.c
+	<stdio.h>
+	<conio.h>
+	<ctype.h>
+	<windows.h>
+	<stdlib.h>
+
+1662730426 source:d:\all project\tlecom billing system\main.c
+	<stdio.h>
+	<conio.h>
+	<ctype.h>
+	<windows.h>
+	<stdlib.h>
+
